@@ -1,3 +1,5 @@
 import 'whatwg-fetch';
 
-import './user-info';
+import data from './user_data';
+
+console.log(data);
